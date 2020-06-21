@@ -11,3 +11,6 @@ Seine Partnerin heißt Wendy. Sie ist im Büro ebenso wie auf der Baustelle imme
 * Malern, 
 * Klempnern bis hin zum 
 * Gartenbau
+
+> Können wir das schaffen?
+> Yo, wir schaffen das!
