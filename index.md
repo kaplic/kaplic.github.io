@@ -14,3 +14,13 @@ Seine Partnerin heißt Wendy. Sie ist im Büro ebenso wie auf der Baustelle imme
 
 > Können wir das schaffen?
 > Yo, wir schaffen das!
+
+
+<img src="https://upload.wikimedia.org/wikipedia/de/thumb/f/f9/BOB-Schluesselanhaenger.JPG/800px-BOB-Schluesselanhaenger.JPG"/>
+
+Quelle: https://de.wikipedia.org/wiki/Datei:BOB-Schluesselanhaenger.JPG<br>
+Beschreibung: BOB-Schlüsselanhänger<br>
+Quelle: Aktion BOB, Polizeipräsdidium Mittelhessen<br>
+Urheber bzw. Nutzungsrechtinhaber: E. Dersch<br>
+Datum: 06.02.2009 
+
